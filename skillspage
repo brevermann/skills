@@ -1,0 +1,26 @@
+# Skills
+
+## My skills
+1. Football
+1. Ping-Pong
+1. Billards
+1. Frisbee
+1. Cornhole
+
+## Characteristic Skills
+1. Great leader, I was a captain of my football team.
+1. Responsibile
+
+## Code Skills!
+# C code
+
+```c
+#include <stdio.h>
+int main() {
+// printf() displays the string inside quotation
+printf("Hello, World!");
+return 0;
+}
+```
+
+[Go back to home page](./README.md)
